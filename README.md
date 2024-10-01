@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/photon-data/python-sml/refs/heads/main/docs/assets/rust-sml.png" width="400">
+<p align="center"><img src="https://raw.githubusercontent.com/photon-data/py-sml/refs/heads/main/docs/assets/py-sml.png" width="400">
 <img src="https://raw.githubusercontent.com/photon-data/Confo/refs/heads/main/assets/logophoton.png" width="50">
 </p>
 <p align="center"></p>
